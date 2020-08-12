@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/about.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/checkout.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/contact.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/faq.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/login.jsp=UTF-8
+encoding//src/poly/controller/AdminsController.java=UTF-8
+encoding//src/poly/controller/HomeController.java=UTF-8
+encoding//src/poly/services/MailServicesImpl.java=UTF-8
